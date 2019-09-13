@@ -1,30 +1,6 @@
-<p align="center"> 
-  English | <a href="./README.zh-CN.md"> 简体中文 </a> | <a href="./README.ja-JP.md"> 日本語 </a>
-</p>
+<h1 align="center"> CRUD Maker </h1>
 
-<h1 align="center"> Vuestic Admin </h1>
-  
-<p align="center">
-  Free and beautiful Vue.js admin template with 44+ custom UI components.</br>
-  Developed by  <a href="https://epicmax.co">Epicmax</a>. 
-  Designed by <a href="https://www.xxsavitski.com">Vasili Savitski</a>
-</p>
-
-<p align="center">
-  <a href="https://vuestic.epicmax.co"> Demo </a> | <a href="https://github.com/epicmaxco/vuestic-admin/wiki"> Documentation </a>
-</p>
-<p align="center">
-  <a href="https://vuestic.epicmax.co" target="_blank">
-    <img src="https://i.imgur.com/h37ur0s.png" align="center" width="888px"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://circleci.com/gh/epicmaxco/vuestic-admin">
-    <img src="https://img.shields.io/circleci/build/github/epicmaxco/vuestic-admin/master" alt="Circleci">
-  </a>
-</p>
+## Based on [Vuestic-admin](https://github.com/epicmaxco/vuestic-admin/blob/master/README.md)
 
 ## Installation
 
@@ -36,7 +12,7 @@ After checking the prerequisites, follow these simple steps to install and use V
 
 ```
 # clone the repo
-$ git clone https://github.com/epicmaxco/vuestic-admin.git myproject
+$ git clone https://github.com/spakit/crudmaker-admin.git myproject
 
 # go into app's directory and install dependencies:
 $ cd myproject
@@ -46,12 +22,12 @@ $ cd myproject
 Then, if you use npm:
 
 ```
-$ npm install
+$ npm i
 
 # serve with hot reload at localhost:8080 by default.
 $ npm run serve
 
-# build for production 
+# build for production
 $ npm run build
 
 # build for production and view the bundle analyzer report.
@@ -65,7 +41,7 @@ $ yarn install
 # serve with hot reload at localhost:8080 by default.
 $ yarn serve
 
-# build for production 
+# build for production
 $ yarn build
 
 # build for production and view the bundle analyzer report.
@@ -120,11 +96,10 @@ Thanks for all your wonderful PRs, issues and ideas. You’re always welcome to 
 [![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/0)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/0)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/1)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/1)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/2)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/2)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/3)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/3)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/4)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/4)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/5)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/5)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/6)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/6)[![](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/images/7)](https://sourcerer.io/fame/smartapant/epicmaxco/vuestic-admin/links/7)
 
 ## Can I hire you guys?
-Yes! Say hi: [hello@epicmax.co](mailto:hello@epicmax.co) </br>
-We will be happy to work with you! Other [work we’ve done](https://epicmax.co)
+Yes! Say hi: [jeanbonilha.wevdev@gmail.com](mailto:jeanbonilha.wevdev@gmail.com)
 
 ## Follow us
-Stay up to date with the latest Vuestic news! Follow us on [Twitter](https://twitter.com/epicmaxco) or [Facebook](https://facebook.com/epicmaxco)
+Stay up to date with the latest Vuestic news! Follow us on [Twitter](https://twitter.com/jeanbonilha) or [Facebook](https://facebook.com/jeanbonilha)
 
 ## License
-[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
+[MIT](https://github.com/spakit/crudmaker-admin/blob/master/LICENSE) license.
