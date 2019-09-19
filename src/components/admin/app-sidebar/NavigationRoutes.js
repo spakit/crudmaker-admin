@@ -62,6 +62,10 @@ export const navigationRoutes = {
           name: 'data',
           displayName: 'menu.dataTables',
         },
+        {
+          name: 'crud',
+          displayName: 'CRUD Tables',
+        },
       ],
     },
     {

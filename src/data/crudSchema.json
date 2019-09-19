@@ -1,0 +1,147 @@
+{
+    "companies": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "razao_social",
+                "sortField": "razao_social",
+                "title": "razao social"
+            },
+            {
+                "name": "nome_fantasia",
+                "sortField": "nome_fantasia",
+                "title": "nome fantasia"
+            },
+            {
+                "name": "cnpj",
+                "sortField": "cnpj",
+                "title": "cnpj"
+            }
+        ],
+        "formFields": []
+    },
+    "employees": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "company_foreign",
+                "sortField": "company_foreign",
+                "title": "company"
+            },
+            {
+                "name": "person_foreign",
+                "sortField": "person_foreign",
+                "title": "person"
+            }
+        ],
+        "formFields": []
+    },
+    "people": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "nome",
+                "sortField": "nome",
+                "title": "nome"
+            },
+            {
+                "name": "data_nascimento",
+                "sortField": "data_nascimento",
+                "title": "data nascimento"
+            },
+            {
+                "name": "sexo",
+                "sortField": "sexo",
+                "title": "sexo"
+            },
+            {
+                "name": "rg",
+                "sortField": "rg",
+                "title": "rg"
+            }
+        ],
+        "formFields": []
+    },
+    "roles": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "nome",
+                "sortField": "nome",
+                "title": "nome"
+            }
+        ],
+        "formFields": []
+    },
+    "sectors": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "nome",
+                "sortField": "nome",
+                "title": "nome"
+            }
+        ],
+        "formFields": []
+    },
+    "users": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "name",
+                "sortField": "name",
+                "title": "name"
+            },
+            {
+                "name": "email",
+                "sortField": "email",
+                "title": "email"
+            },
+            {
+                "name": "activated",
+                "sortField": "activated",
+                "title": "activated"
+            }
+        ],
+        "formFields": []
+    },
+    "workstations": {
+        "tableFields": [
+            {
+                "name": "id",
+                "sortField": "id",
+                "title": "id"
+            },
+            {
+                "name": "nome",
+                "sortField": "nome",
+                "title": "nome"
+            }
+        ],
+        "formFields": []
+    }
+}

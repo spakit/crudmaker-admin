@@ -148,6 +148,12 @@ export default new Router({
               component: () => import('../components/data-tables/DataTables.vue'),
               wikiLink: 'https://github.com/epicmaxco/vuestic-admin/wiki/Tables', // TODO Add docs
             },
+            {
+              name: 'crud',
+              path: 'crud',
+              component: () => import('../components/crud-tables/CrudTables.vue'),
+              wikiLink: 'https://github.com/epicmaxco/vuestic-admin/wiki/Tables', // TODO Add docs
+            },
           ],
         },
         {
